@@ -1,0 +1,166 @@
+/* font-family: 'Fredoka', sans-serif; */
+/* font-family: 'Hind Madurai', sans-serif; */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+  
+
+ul li a {
+    text-decoration: none;
+
+    color: #150101;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.header-btn button {
+    width: 165px;
+    height: 49px;
+    border-radius: 6%;
+    background: blue;
+
+    border: none;
+
+    color: #FAFAFA;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.header-content {
+    height: 90px;
+    align-items: center;
+
+}
+
+
+#birinchi {
+
+    background: #F2CEDA;
+}
+
+/* .mini-text { */
+    /* 
+    color: #0F0101; */
+    /* font-family: Roboto; */
+    /* font-size: 14px; */
+    /* font-style: normal; */
+    /* font-weight: 500; */
+    /* line-height: normal; */
+    /* letter-spacing: 1.4px; */
+
+    /* margin-top: 100px; */
+
+
+h1 {
+    color: #0F0101;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 57.33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120.5%;
+    /* 69.083px */
+
+    max-width: 665px;
+
+    margin: 6px 0 35px;
+}
+
+/* h1 span { */
+    /* color: #D23166; */
+
+
+.info-text {
+    color: #0F0101;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    /* 150% */
+    width: 523px;
+
+    margin-bottom: 50px;
+}
+
+
+.birinchi-rasm {
+    position: relative;
+}
+
+/* .milk { */
+  /* //  width: 600px; */
+//
+    /* position: absolute; */
+
+    /* top: 250px; */
+
+.free{
+    border-radius: 7px;
+background: #FFF;
+box-shadow: 20px 20px 50px 0px ;
+width: 250px;
+height: 200px;
+
+}
+   .bolim-2{
+    height: 326px;
+    margin-top: 30px;
+   }
+.See{
+    width: 165px;
+height: 49.135px;
+border-radius: 5px;
+background: #D64374;
+border:none;
+color: #FAFAFA;
+}
+
+ 
+.bolim-2{
+    height: 326px;
+    margin-top: 30px;
+   }
+.See{
+    width: 165px;
+height: 49.135px;
+border-radius: 5px;
+background: #D64374;
+border:none;
+color: #FAFAFA;
+}
+.rasm-1{
+    
+    width: 655px;
+height: 656.804px;
+
+
+
+
+}
+.bolim-3{
+
+height: 544.495px;
+flex-shrink: 0;
+background: #F8EDF0;
+}
+.text{
+    color: #150101;
+font-family: Hind Madurai;
+font-size: 44.2px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-align: center;
+
+}
+
+ 
